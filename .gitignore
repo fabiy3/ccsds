@@ -4,3 +4,6 @@ ccsds_simulator
 
 # Runtime artifacts
 *.csv
+
+# VS Code settings
+.vscode/
