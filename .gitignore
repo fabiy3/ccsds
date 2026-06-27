@@ -1,0 +1,6 @@
+# Compiled binaries
+ccsds_parser
+ccsds_simulator
+
+# Runtime artifacts
+*.csv
